@@ -1,0 +1,19 @@
+{
+  "name": "@kpajtasev/calculator-helpers",
+  "version": "1.0.0",
+  "description": "Helper functions for simple UI calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristijan-pajtasev/js-calculator-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristijan-pajtasev/js-calculator-helpers/issues"
+  },
+  "homepage": "https://github.com/kristijan-pajtasev/js-calculator-helpers#readme"
+}

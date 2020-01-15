@@ -3,7 +3,7 @@ const subtract = (firstNumber, secondNumber) => firstNumber - secondNumber;
 const multiply = (firstNumber, secondNumber) => firstNumber * secondNumber;
 const divide = (firstNumber, secondNumber) => firstNumber / secondNumber;
 
-window.CalculatorHelpers = {
+export default {
     add,
     subtract,
     multiply,
